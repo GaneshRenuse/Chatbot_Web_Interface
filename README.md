@@ -1,2 +1,2 @@
 # Games_byG
-Online 'Games Store & Torrents' website
+Online `Games Store & Torrents` website
